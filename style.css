@@ -1,0 +1,80 @@
+h1 {
+    color: red;
+	
+}
+h2 {
+	color: blue;
+}
+h4 {
+	color: purple;
+}
+h4 {
+	font-size: 1.2em; 
+}
+body { 
+background-color: hsla(50, 33%, 25%, .75);
+}
+img {
+	width: 300px;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+div .preference {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: .5rem;
+}
+P .output {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+#exciting {
+    background: linear-gradient(to bottom, #ffe8d4, #f69d3c);
+    border: 1px solid #696969;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px black;
+}
+
+#exciting:before {
+    content: "ℹ️";
+    margin-right: 5px;
+}
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+input {
+	border-radius: 30px;
+}
+
+p,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
+
